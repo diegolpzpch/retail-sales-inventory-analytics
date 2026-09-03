@@ -63,6 +63,38 @@ The FastAPI backend provides endpoints such as:
 
 Automated tests validate the main API endpoints using Pytest.
 
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/diegolpzpch/retail-sales-inventory-analytics.git
+```
+
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the Streamlit dashboard:
+
+```bash
+python -m streamlit run dashboard/dashboard.py
+```
+
+4. Run the FastAPI backend:
+
+```bash
+python -m uvicorn app.api:app --reload
+```
+
+5. Run the automated tests:
+
+```bash
+python -m pytest -v
+```
+
 ## Author
 
 Diego López  
