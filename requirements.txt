@@ -1,0 +1,6 @@
+pandas
+streamlit
+fastapi
+uvicorn
+pytest
+httpx
