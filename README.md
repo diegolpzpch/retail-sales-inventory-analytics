@@ -8,6 +8,10 @@ This project simulates a retail company with multiple stores, products, customer
 
 The system stores transactional data in a relational SQL database and provides analytics to support business decision-making.
 
+## Live Demo
+
+[Open the interactive dashboard](https://retail-sales-inventory-analytics-aersk55dcfssvywwemcyrc.streamlit.app/)
+
 ## Dashboard Preview
 
 ![Dashboard Overview](images/dashboard1.jpeg)
