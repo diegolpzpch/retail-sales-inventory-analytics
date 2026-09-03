@@ -8,6 +8,12 @@ This project simulates a retail company with multiple stores, products, customer
 
 The system stores transactional data in a relational SQL database and provides analytics to support business decision-making.
 
+## Dashboard Preview
+
+![Dashboard Overview](images/dashboard1.jpeg)
+
+![Inventory Analysis](images/dashboard2.jpeg)
+
 ## Key Features
 
 - Sales and inventory database using SQLite
